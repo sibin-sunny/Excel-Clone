@@ -10,5 +10,6 @@ Features:
  * Formatting Options: Customize the appearance of your spreadsheet with formatting options such as font styles, cell colors, and borders.
  * Import/Export: Import data from and export data to JSON file format for seamless collaboration and data interchange.
  * Functions/Formula:Perform basic aritmetic operations on cell data.
+ * Cut, Copy, and Paste: Easily manipulate data with the familiar cut, copy, and paste functionality. Move or duplicate cells, rows, or columns seamlessly within the spreadsheet.
    
 
